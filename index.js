@@ -1,1 +1,1 @@
-console.warn("I would be a logger.") // get it? 
+console.error()
